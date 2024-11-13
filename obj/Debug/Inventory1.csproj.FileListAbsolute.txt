@@ -1,0 +1,10 @@
+C:\Users\WINDOWS 10\source\repos\Inventory1\bin\Debug\Inventory1.exe.config
+C:\Users\WINDOWS 10\source\repos\Inventory1\bin\Debug\Inventory1.exe
+C:\Users\WINDOWS 10\source\repos\Inventory1\bin\Debug\Inventory1.pdb
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.frmAddProduct.resources
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.exe
+C:\Users\WINDOWS 10\source\repos\Inventory1\obj\Debug\Inventory1.pdb
